@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Parth Rajput</h1>
-  <p><strong>Full Stack Engineer | CS & Design Student</strong></p>
+  <p><strong>Full Stack Engineer</strong></p>
   
 <p>
     <a href="https://www.linkedin.com/in/parth-rajput-094500265/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/></a>
